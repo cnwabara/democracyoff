@@ -5,7 +5,7 @@
 "get_involved_enabled": true,
 "android_enabled": true,
 "newsletter_enabled": true,
-"other_ways_to_donate_enabled": false,
+"other_ways_to_donate_enabled": true,
 "download_audio_video_enabled": true,
 "rss_podcasts_enabled": true
 }
