@@ -2,7 +2,7 @@
 "offline_enabled": true,
 "topics_enabled": true,
 "related_enabled": false,
-"get_involved_enabled": true,
+"get_involved_enabled": false,
 "android_enabled": false,
 "newsletter_enabled": false,
 "other_ways_to_donate_enabled": true,
