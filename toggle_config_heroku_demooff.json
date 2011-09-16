@@ -7,5 +7,6 @@
 "newsletter_enabled": false,
 "other_ways_to_donate_enabled": true,
 "download_audio_video_enabled": false,
-"rss_podcasts_enabled": true
+"rss_podcasts_enabled": true,
+"bookmark_enabled":false
 }
